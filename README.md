@@ -133,7 +133,6 @@ Business-Insights-360/
 
 ## 👤 Author
 
-**Aniruddh** — Mechanical Engineer transitioning into Data & AI  
-[LinkedIn](#) · [GitHub](#) · [Portfolio](#)
+Built by **Aniruddh Galande** | [LinkedIn](https://www.linkedin.com/in/aniruddhgalande/) | [GitHub](https://github.com/Aniruddh4980)
 
 > *This project was built as part of the Codebasics Data Science & Gen AI Bootcamp. AtliQ Hardware is a fictional company used for educational purposes.*
